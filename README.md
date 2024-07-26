@@ -1,2 +1,3 @@
-# CPSC5200-FQ19
-Seattle University 5520 (FQ19)
+# Distributed Systems
+
+A combination of many Distributed System problems.
